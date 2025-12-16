@@ -1,0 +1,28 @@
+p {
+    color: #333333;
+    background-color: #f0f0f0;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+#title {
+    color: white;
+    background-color: #2e7d32;     
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.info-box {
+    color: #1b5e20;
+    background-color: #ffffff;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    padding: 40px;                 
+    border: 5px solid #2e7d32;     
+    margin: 60px auto;           
+ }
